@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **girman.k7@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1U2w1EpltoSAmEHP4AW9NhpMU31YKFQ1e/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1579jk4oeiMXxisFMOK_CwEhW56AIqmc9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
