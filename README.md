@@ -1,6 +1,6 @@
 <h2 align="left">:wave: Welcome, I'm Kirill Girman</h2>
-<h3 align="left">:computer: Java Developer at MY.GAMES 💻</h3>
+<h3 align="left">:computer: Java Developer with 3+ years of experience :computer:</h3>
 
-- **:mag: My experience: [CV on google drive](https://drive.google.com/file/d/1579jk4oeiMXxisFMOK_CwEhW56AIqmc9/view)**
+- **:mag: My experience: [CV on google drive](https://shorturl.at/artGW)**
 
-- **:memo: My contacts: [LinkedIn](https://linkedin.com/in/kirill-girman), [Telegram](https://t.me/Let_Peace)**
+- **:memo: My contacts: [LinkedIn](https://linkedin.com/in/kirill-girman), [Telegram](https://t.me/GirmanKirill)**
